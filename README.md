@@ -1,38 +1,24 @@
 <!-- HEADER -->
 <h1 align="center">Hi 👋, I'm Jay Surani</h1>
-<h3 align="center">B.Tech Information Technology Student | Aspiring Software Developer</h3>
+<h3 align="center">B.Tech IT Student • Aspiring Software Developer • Tech Enthusiast</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=3500&color=4F8EF7&center=true&vCenter=true&width=650&lines=Passionate+about+Learning+and+Building;Web+Development+%7C+DSA+%7C+Flutter;Open+to+Opportunities+and+Collaboration" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=3500&color=4F8EF7&center=true&vCenter=true&width=600&lines=Welcome+to+my+GitHub+Profile!;Building+Projects+with+Passion;Learning+DSA+%7C+React+%7C+Flutter" />
 </p>
 
 ---
 
-## 🧑‍💼 Professional Summary
+## 🌈 About Me
 
-Motivated **Information Technology undergraduate** with a strong foundation in **web development, databases, and problem-solving**.  
-Actively seeking opportunities to apply technical skills, gain real-world experience, and contribute to innovative projects in a growth-oriented organization.
-
----
-
-## 🎓 Education
-
-**B.Tech – Information Technology**  
-🏫 RK University, Rajkot  
-📊 CGPA: **7.95**  
-📅 2023 – 2027  
-
-**Higher Secondary (Science)**  
-🏫 RAKVB, Botad  
-📊 12th Score: **70%**  
-
-**Secondary School Certificate**  
-🏫 Adarsh School, Botad  
-📊 10th Score: **84%**
+- 🎓 B.Tech (IT) Student  
+- 💻 Interested in Web Development & Problem Solving  
+- 🚀 Actively preparing for placements  
+- 🌱 Learning **DSA, Flutter & System Design**  
+- 🤝 Open to collaboration & learning from the community  
 
 ---
 
-## 🧰 Technical Skills
+## 🧰 Tech Stack
 
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="45"/>
@@ -41,78 +27,64 @@ Actively seeking opportunities to apply technical skills, gain real-world experi
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="45"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="45"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="45"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" width="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="45"/>
 </p>
 
 ---
 
-## 🚀 Projects
+## 🚀 Featured Projects
 
-### 🛒 Smart Cart (SSIP 2.0 – Granted)
-- IoT-based intelligent shopping cart for supermarkets  
-- Automated product detection using sensors  
-- Improves billing speed and customer experience  
+### 🛒 Smart Cart (IoT Project)
+- Intelligent shopping cart for retail stores  
+- Improves billing speed & customer experience  
+- **Tech:** IoT, Sensors, Automation  
 
-### 🏢 Smart Society Management System
-- Role-based authentication system  
-- REST APIs for residents, visitors & maintenance  
-- **Tech:** React.js, Node.js, Express.js, MongoDB/MySQL  
+### 🏢 Smart Society Website
+- Full-stack web app for society management  
+- **Tech:** React, Node.js, Database  
 
-### 👕 E-Commerce Clothing Website
-- Fully responsive shopping platform  
-- **Tech:** PHP, MySQL, JavaScript, Bootstrap  
+### 🏨 Hotel Management System
+- Admin & user modules for hotel operations  
+- **Tech:** PHP, MySQL, Bootstrap  
 
-🔗 **GitHub Projects:** https://github.com/jaysurani18
-
----
-
-## 🏆 Certifications & Achievements
-
-- 📜 Infosys Certification – **PL/SQL & DBMS**  
-- 📜 Infosys Certification – **Bootstrap**  
-- 🏅 SSIP 2.0 Grant – Smart Cart & Smart Garbage Project  
-- 📘 NPTEL – Data Science  
+🔗 **Explore more:** https://github.com/jaysurani18?tab=repositories
 
 ---
 
-## 🌱 Areas of Interest
-
-- Web Application Development  
-- Data Structures & Algorithms  
-- Flutter & Cross-Platform Development  
-- Smart City & IoT Solutions  
-
----
-
-## 📊 GitHub Stats (Clean & Professional)
+## 📊 GitHub Stats (Light & Professional)
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=jaysurani18&show_icons=true&hide_border=true&theme=default" height="165"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jaysurani18&hide_border=true&theme=default" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=jaysurani18&show_icons=true&theme=default&hide_border=true" height="165"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jaysurani18&theme=default&hide_border=true" height="165"/>
 </p>
 
 ---
 
-## 🌐 Connect With Me
+## 🌱 Currently Focusing On
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Data%20Structures%20&%20Algorithms-Logic%20Building-4F8EF7?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Flutter-Dart-5BC0EB?style=for-the-badge&logo=flutter"/>
+</p>
+
+---
+
+## 🤝 Connect With Me
 
 <p align="center">
   <a href="https://github.com/jaysurani18">
     <img src="https://img.shields.io/badge/GitHub-jaysurani18-24292e?style=for-the-badge&logo=github"/>
   </a>
-  <a href="https://www.linkedin.com/in/jay-surani/">
-    <img src="https://img.shields.io/badge/LinkedIn-Jay%20Surani-0A66C2?style=for-the-badge&logo=linkedin"/>
-  </a>
-  <a href="https://www.instagram.com/">
-    <img src="https://img.shields.io/badge/Instagram-Connect-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+  <a href="https://www.linkedin.com/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin"/>
   </a>
 </p>
 
 ---
 
 <p align="center">
-  <i>“Learning never exhausts the mind — it fuels innovation.”</i>
+  <i>"Consistency beats motivation."</i>
 </p>
 
 ---
